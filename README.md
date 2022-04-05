@@ -1,2 +1,2 @@
 # ExerciciosC
-Exercícios de PDS 1 
+Exercícios de PDS 2
